@@ -1,5 +1,5 @@
 # Numix-Reborn
-a copy of Numix-Reborn
+a copy of gtk theme Numix-Reborn 
 
 updated: 10/2015
 
